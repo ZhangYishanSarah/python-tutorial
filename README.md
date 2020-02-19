@@ -1,8 +1,7 @@
 # python-学习笔记
 收录各种Python学习资料以及笔记
 baic：
-## python_basic_1 
-python_basic_1.ipynb
+## [python_basic_1] （https://github.com/ZhangYishanSarah/python-tutorial/blob/master/python_basic_1.ipynb）
 objects, basic types, and variables  
 Basic operators  
 
