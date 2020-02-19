@@ -2,12 +2,12 @@
 收录各种Python学习资料以及笔记
 baic：
 ## python_basic_1 
-objects, basic types, and variables，\\
-Basic operators\\
+objects, basic types, and variables  
+Basic operators  
 
 ## python_basic_2_containers
-lines，\\
-number，mathematical functions,\\
+lines  
+number，mathematical functions  
 random choice functions, \\
 string, eacape characters, string formatting operator\\
 unicode\\
