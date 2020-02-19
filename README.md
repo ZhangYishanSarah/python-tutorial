@@ -5,7 +5,7 @@ baic：
 objects, basic types, and variables  
 Basic operators  
 
-## python_basic_2_containers
+## [python_basic_2_containers](https://github.com/ZhangYishanSarah/python-tutorial/blob/master/python_basic_2.ipynb)
 lines  
 number，mathematical functions  
 random choice functions  
@@ -16,7 +16,7 @@ set, {/n},
 tupe, (/n),operations  
 dict, { : , : ....}, built-in dictionary functions and methods  
 
-## python_basic_3
+## [python_basic_3](https://github.com/ZhangYishanSarah/python-tutorial/blob/master/python_basic_3_control_seq.ipynb)
 if/else statement  
 loop statement: while, for, nested  
 break statement  
@@ -25,7 +25,7 @@ pass statement
 iterator  
 genrator  
 
-## python_basic_4_functions
+## [python_basic_4_functions](https://github.com/ZhangYishanSarah/python-tutorial/blob/master/python_basic_4_functions.ipynb)
 define  
 call  
 pass by reference vs value  
@@ -34,27 +34,27 @@ anonymous functions: lambda
 return statement  
 global variables and local variables  
 
-## python_basic_5_modules
+## [python_basic_5_modules](https://github.com/ZhangYishanSarah/python-tutorial/blob/master/python_basic_5_modules.ipynb)
 import statement  
 executing modules as scripts?  
 locating modules  
 package structure  
 
-## python_basic_6_I/O
+## [ython_basic_6_I/O](https://github.com/ZhangYishanSarah/python-tutorial/blob/master/python_basic_6_file_io.ipynb)
 print to screen  
 reading keyboard input  
 open and close files  
 reading and writing files  
 with statement  
 
-## python_7_error_handling
+## [ython_7_error_handling](https://github.com/ZhangYishanSarah/python-tutorial/blob/master/python_basic_7_error_handling.ipynb)
 excepttion handling  
 standard excpetion,  
 handling: try...except  
 raising an exception,  
 user-defined exceptions,  
 
-## python_basic_8_oop
+## [ython_basic_8_oop](https://github.com/ZhangYishanSarah/python-tutorial/blob/master/python_basic_8_oop.ipynb)
 oop  
 creating class  
 build-in functions for class  
