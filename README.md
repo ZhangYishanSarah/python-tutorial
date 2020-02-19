@@ -1,30 +1,29 @@
 # python-学习笔记
 收录各种Python学习资料以及笔记
 baic：
-## python_basic_1
-Python 
-objects, basic types, and variables，
-Basic operators
+## python_basic_1 
+objects, basic types, and variables，\\
+Basic operators\\
 
 ## python_basic_2_containers
-lines，
-number，mathematical functions,
-random choice functions, 
-string, eacape characters, string formatting operator
-unicode
-list,  [/n], operations, 
-set, {/n}, 
-tupe, (/n),operations,
-dict, { : , : ....}, built-in dictionary functions and methods
+lines，\\
+number，mathematical functions,\\
+random choice functions, \\
+string, eacape characters, string formatting operator\\
+unicode\\
+list,  [/n], operations, \\
+set, {/n}, \\
+tupe, (/n),operations,\\
+dict, { : , : ....}, built-in dictionary functions and methods\\
 
 ## python_basic_3
-if/else statement
-loop statement: while, for, nested, 
-break statement,
-continue statement,
-pass statement,
-iterator,
-genrator,
+if/else statement\\
+loop statement: while, for, nested, \\
+break statement,\\
+continue statement,\\
+pass statement,\\
+iterator,\\
+genrator,\\
 
 ## python_basic_4_functions
 define
